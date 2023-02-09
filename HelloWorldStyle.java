@@ -22,7 +22,7 @@ public final class HelloWorldStyle {
     */
 
     public static void main(String[] args) {
-        System.out.println("Helllllo");
-        System.out.println("Hello everybody");
+        System.out.println("Next year I'm going to Uni");
+        System.out.println("I am excited for Uni.");
     }
 }
